@@ -116,3 +116,22 @@ body {
 #orange-color {
     background-color: rgb(248, 204, 188);
 }
+
+.form-banner {
+    margin-bottom: 100px;
+}
+
+.donate-children {
+    margin-bottom: 50px;
+}
+
+.donate-children h1 {
+    text-align: center;
+    font-size: 35px;
+    height: 25px;
+
+}
+
+.donator-form {
+    width: 50%;
+}
