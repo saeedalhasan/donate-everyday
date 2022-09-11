@@ -11,7 +11,7 @@ body {
     height: 100%;
     padding: 200px 300px;
     color: white;
-    margin-bottom: 120px;
+
 }
 
 .top-banner h1 {
@@ -34,16 +34,18 @@ body {
     color: white;
 }
 
-.second-banner {
+.donate-plan {
+    margin-top: 120px;
+    margin-bottom: 50px;
     text-align: center;
 }
 
-#donate-today h1 {
+.donate-today h1 {
     font-size: 40px;
     font-weight: 900;
 }
 
-#donate-today p {
+.donate-today p {
     color: rgb(68, 60, 60);
     width: 40%;
     padding-left: 30%;
@@ -59,7 +61,7 @@ body {
     margin: 20px 10px;
     border: 5px none;
     border-radius: 5px;
-    background-color: rgb(235, 228, 228);
+    background-color: rgb(247, 241, 241);
     width: 100px;
     height: 100px;
     padding-left: 30px;
@@ -84,4 +86,33 @@ body {
 
 #other-amount {
     margin-bottom: 50px;
+}
+
+.plan-description img {
+    width: 50px;
+    height: 50px;
+}
+
+
+
+.plan-description {
+    width: 20%;
+    text-align: justify;
+    display: inline-block;
+    margin: 30px 15px;
+    border: 5px none;
+    border-radius: 5px;
+    padding: 40px 30px;
+}
+
+#aqua-color {
+    background-color: rgb(189, 251, 251);
+}
+
+#plum-color {
+    background-color: rgb(248, 208, 248);
+}
+
+#orange-color {
+    background-color: rgb(248, 204, 188);
 }
