@@ -11,6 +11,7 @@ body {
     height: 100%;
     padding: 200px 300px;
     color: white;
+    margin-bottom: 120px;
 }
 
 .top-banner h1 {
@@ -26,9 +27,61 @@ body {
 }
 
 .donate-button {
-    background-color: coral;
+    background-color: tomato;
     text-decoration: none;
     padding: 10px 15px;
     border-radius: 5px;
     color: white;
+}
+
+.second-banner {
+    text-align: center;
+}
+
+#donate-today h1 {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+#donate-today p {
+    color: rgb(68, 60, 60);
+    width: 40%;
+    padding-left: 30%;
+}
+
+.declaring-amount {
+    margin-bottom: 60px;
+}
+
+.donation-amount {
+    color: rgb(45, 43, 43);
+    display: inline-flex;
+    margin: 20px 10px;
+    border: 5px none;
+    border-radius: 5px;
+    background-color: rgb(235, 228, 228);
+    width: 100px;
+    height: 100px;
+    padding-left: 30px;
+    padding-top: 20px;
+
+}
+
+#two-hundred {
+    color: rgb(241, 81, 53);
+    border: 3px solid;
+    border-color: rgb(246, 103, 78);
+    background-color: rgb(244, 219, 215);
+}
+
+#other-amount p {
+    width: 50%;
+    color: rgb(170, 164, 164);
+    border-bottom: 2px solid rgb(184, 181, 181);
+    margin-bottom: 40px;
+    margin-left: 25%;
+}
+
+#other-amount {
+    margin-bottom: 50px;
 }
