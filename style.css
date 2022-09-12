@@ -230,3 +230,20 @@ button {
 .my-updates {
     margin-bottom: 120px;
 }
+
+.bottom-banner {
+    color: white;
+    text-align: center;
+    background-image: url(images/bg-black.jpg);
+    padding: 50px 0;
+}
+
+.bottom-banner h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: tomato;
+}
+
+footer {
+    font-size: 12px;
+}
